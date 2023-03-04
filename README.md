@@ -1,3 +1,4 @@
 # Lingua Flash
-Flash card application for building vocabulary for language learners using the Oxford Dictionaries API. Users can also build custom sets.
-# Detailed Description
+Quick and easy flash card application for building vocabulary for language learners such as myself using language APIs such as Oxford Dictionaries.
+# Description
+Being a language learner, I seriously needed to work on my vocabulary. So a flash card app was needed but couldn't really find anything that I could just jump into and get started with right away. Lingua Flash aims to allow users to quickly get started with vocabulary from a random assortment of words. If users create an account, they can also create custom sets which could include the words available from the API or none.

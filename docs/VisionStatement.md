@@ -1,0 +1,2 @@
+# Vision Statement
+An easy-to-use and intuitive flash card application that is available to use right away drawing on words from language APIs. This application is mainly targeted at English-speaking learners although native speakers of target languages could use it as an English learning tool. Users who create an account will be able to create custom flash card sets. Either way, there are options to customize or filter groups of words.
