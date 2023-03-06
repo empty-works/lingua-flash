@@ -18,3 +18,4 @@
 ## Constraints: ##
 * Unlimited (entire list of words in the API) words per session cannot be an option. There should be a maximum number of words.
 * Maximum number of flash card sets per user.
+* Maximum number of words per flash card set.
