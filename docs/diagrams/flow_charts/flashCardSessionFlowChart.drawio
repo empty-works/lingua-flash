@@ -1,0 +1,128 @@
+<mxfile host="Electron" modified="2023-08-15T16:57:54.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="4Kn45lb1Q-YBR2s_IPJD" version="21.6.8" type="device">
+  <diagram name="Page-1" id="3E4bVvpRMMxE6jCjtsGW">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-1" value="Flash Card Organizer" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-2" value="Start Flash Card Session by&amp;nbsp;&lt;br&gt;Reading User Settings" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-3" value="Flash Card Sets Both&amp;nbsp;&lt;br&gt;Default and Custom" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="710" y="32.5" width="190" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-2" target="so5u1DdEwnmWbGKlJxqZ-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-7" value="Retrieve card set based on the user settings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-6">
+          <mxGeometry x="0.098" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-8" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-2" target="so5u1DdEwnmWbGKlJxqZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-9" value="Initialize the card screen based on retrieved card set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-8">
+          <mxGeometry x="-0.0971" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-10" value="Flash Card Display" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-11" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-1" target="so5u1DdEwnmWbGKlJxqZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-12" value="Send card set to the flash card display" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-11">
+          <mxGeometry x="-0.1707" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-13" value="Turned Over Flash Card" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-14" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-10" target="so5u1DdEwnmWbGKlJxqZ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="sourcePoint" />
+            <mxPoint x="450" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-15" value="User clicks on the flash card" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-14">
+          <mxGeometry x="0.0052" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.725;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-13" target="so5u1DdEwnmWbGKlJxqZ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="200" />
+              <mxPoint x="239" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-18" value="Session is ended" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-16">
+          <mxGeometry x="-0.53" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-19" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-13" target="so5u1DdEwnmWbGKlJxqZ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="750" as="sourcePoint" />
+            <mxPoint x="520" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="730" />
+              <mxPoint x="180" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-20" value="More flash cards available continues the session" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-19">
+          <mxGeometry x="0.0125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-21" value="User Answer Check" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="590" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-13" target="so5u1DdEwnmWbGKlJxqZ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="590" as="sourcePoint" />
+            <mxPoint x="840" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-23" value="If session is a quiz, check user answer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-22">
+          <mxGeometry x="0.0496" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="so5u1DdEwnmWbGKlJxqZ-21" target="so5u1DdEwnmWbGKlJxqZ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="590" as="sourcePoint" />
+            <mxPoint x="840" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="550" />
+              <mxPoint x="735" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="so5u1DdEwnmWbGKlJxqZ-25" value="Return incorrect or correct signal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;" vertex="1" connectable="0" parent="so5u1DdEwnmWbGKlJxqZ-24">
+          <mxGeometry x="-0.0141" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
