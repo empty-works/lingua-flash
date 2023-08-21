@@ -2,23 +2,29 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void OnLoginButtonClicked(object sender, EventArgs e)
         {
-            count++;
+            string username = userNameEntry.Text;
+            string password = passwordEntry.Text;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
+            if(Authenticate(username, password))
+            {
+                messageLabel.Text = "Login successful!";
+            }
             else
-                CounterBtn.Text = $"Clicked {count} times";
+            {
+                messageLabel.Text = "Login failed. Please check creditentials.";
+            }
+        }
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+        private bool Authenticate(string username, string password)
+        {
+            return true;
         }
     }
 }
