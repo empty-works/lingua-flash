@@ -30,29 +30,29 @@
     <AppXManifest Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-21T16:13:24.009</Modified>
+      <Modified>2023-08-22T16:15:44.034</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-21T16:13:23.191</Modified>
+      <Modified>2023-08-22T16:10:16.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.runtimeconfig.json">
       <PackagePath>Lingua Flash.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-17T15:21:23.985</Modified>
+      <Modified>2023-08-22T16:10:15.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.dll">
       <PackagePath>Lingua Flash.dll</PackagePath>
-      <Modified>2023-08-21T16:13:20.330</Modified>
+      <Modified>2023-08-22T16:15:42.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Lingua Flash.exe</PackagePath>
-      <Modified>2023-08-21T16:13:20.347</Modified>
+      <Modified>2023-08-22T16:15:42.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.deps.json">
       <PackagePath>Lingua Flash.deps.json</PackagePath>
-      <Modified>2023-08-17T15:21:23.734</Modified>
+      <Modified>2023-08-22T16:10:15.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.10\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -940,23 +940,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.200</Modified>
+      <Modified>2023-08-22T16:10:11.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.229</Modified>
+      <Modified>2023-08-22T16:10:11.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.269</Modified>
+      <Modified>2023-08-22T16:10:11.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.337</Modified>
+      <Modified>2023-08-22T16:10:11.198</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.594</Modified>
+      <Modified>2023-08-22T16:10:11.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -968,207 +968,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-08-17T15:04:17.685</Modified>
+      <Modified>2023-08-22T16:10:11.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.126</Modified>
+      <Modified>2023-08-22T16:10:11.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.147</Modified>
+      <Modified>2023-08-22T16:10:11.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.166</Modified>
+      <Modified>2023-08-22T16:10:11.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.198</Modified>
+      <Modified>2023-08-22T16:10:11.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.324</Modified>
+      <Modified>2023-08-22T16:10:12.014</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.795</Modified>
+      <Modified>2023-08-22T16:10:11.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.801</Modified>
+      <Modified>2023-08-22T16:10:11.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.825</Modified>
+      <Modified>2023-08-22T16:10:11.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.807</Modified>
+      <Modified>2023-08-22T16:10:11.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.812</Modified>
+      <Modified>2023-08-22T16:10:11.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.762</Modified>
+      <Modified>2023-08-22T16:10:11.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.767</Modified>
+      <Modified>2023-08-22T16:10:11.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.789</Modified>
+      <Modified>2023-08-22T16:10:11.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.772</Modified>
+      <Modified>2023-08-22T16:10:11.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.777</Modified>
+      <Modified>2023-08-22T16:10:11.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.701</Modified>
+      <Modified>2023-08-22T16:10:11.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.706</Modified>
+      <Modified>2023-08-22T16:10:11.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.712</Modified>
+      <Modified>2023-08-22T16:10:11.512</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.717</Modified>
+      <Modified>2023-08-22T16:10:11.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.725</Modified>
+      <Modified>2023-08-22T16:10:11.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.730</Modified>
+      <Modified>2023-08-22T16:10:11.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.735</Modified>
+      <Modified>2023-08-22T16:10:11.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.757</Modified>
+      <Modified>2023-08-22T16:10:11.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.739</Modified>
+      <Modified>2023-08-22T16:10:11.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.745</Modified>
+      <Modified>2023-08-22T16:10:11.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.914</Modified>
+      <Modified>2023-08-22T16:10:11.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.924</Modified>
+      <Modified>2023-08-22T16:10:11.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.935</Modified>
+      <Modified>2023-08-22T16:10:11.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.949</Modified>
+      <Modified>2023-08-22T16:10:11.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.983</Modified>
+      <Modified>2023-08-22T16:10:11.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.870</Modified>
+      <Modified>2023-08-22T16:10:11.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.877</Modified>
+      <Modified>2023-08-22T16:10:11.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.884</Modified>
+      <Modified>2023-08-22T16:10:11.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.891</Modified>
+      <Modified>2023-08-22T16:10:11.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.905</Modified>
+      <Modified>2023-08-22T16:10:11.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.831</Modified>
+      <Modified>2023-08-22T16:10:11.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.838</Modified>
+      <Modified>2023-08-22T16:10:11.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.845</Modified>
+      <Modified>2023-08-22T16:10:11.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.853</Modified>
+      <Modified>2023-08-22T16:10:11.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.863</Modified>
+      <Modified>2023-08-22T16:10:11.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.993</Modified>
+      <Modified>2023-08-22T16:10:11.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.005</Modified>
+      <Modified>2023-08-22T16:10:11.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.020</Modified>
+      <Modified>2023-08-22T16:10:11.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.049</Modified>
+      <Modified>2023-08-22T16:10:11.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:18.111</Modified>
+      <Modified>2023-08-22T16:10:11.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.755</Modified>
+      <Modified>2023-08-22T16:10:11.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.772</Modified>
+      <Modified>2023-08-22T16:10:11.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.794</Modified>
+      <Modified>2023-08-22T16:10:11.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.829</Modified>
+      <Modified>2023-08-22T16:10:11.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-08-17T15:04:17.923</Modified>
+      <Modified>2023-08-22T16:10:11.669</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

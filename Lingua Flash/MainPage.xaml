@@ -7,9 +7,9 @@
              mc:Ignorable="d">
 
     <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="Center">
-        <Entry Placeholder="Username" x:Name="userNameEntry" />
-        <Entry Placeholder="Password" IsPassword="True" x:Name="passwordEntry" />
-        <Button Text="Login" Clicked="OnLoginButtonClicked" />
+        <Entry Placeholder="Username" x:Name="userNameEntry" Style="{StaticResource entryStyle}" />
+        <Entry Placeholder="Password" IsPassword="True" x:Name="passwordEntry" Style="{StaticResource entryStyle}" />
+        <Button Text="Login" Clicked="OnLoginButtonClicked" Style="{StaticResource buttonStyle}" />
         <Label x:Name="messageLabel" Text="" />
     </VerticalStackLayout>
 
