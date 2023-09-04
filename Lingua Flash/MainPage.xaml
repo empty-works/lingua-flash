@@ -7,10 +7,35 @@
              mc:Ignorable="d">
 
     <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="Center">
+        <Grid RowDefinitions="1*, 1*, 1*" 
+              ColumnDefinitions="*,*,*,*,*,*">
+            <BoxView Grid.Column="2" 
+                     Grid.ColumnSpan="2" 
+                     Grid.RowSpan="2"
+                     Color="Aquamarine" />
+            <Label Grid.Column="2"
+                   Grid.ColumnSpan="2"
+                   Grid.RowSpan="2"
+                   Text="START SESSION"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            <BoxView Grid.Column="4" 
+                     Grid.ColumnSpan="2"
+                     Grid.RowSpan="2"
+                     Color="BlanchedAlmond"/>
+            <Label Grid.Column="4" 
+                   Grid.ColumnSpan="2"
+                   Grid.RowSpan="2"
+                   Text="SESSION SETTINGS"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+        </Grid> 
+       <!-- 
         <Entry Placeholder="Username" x:Name="userNameEntry" Style="{StaticResource entryStyle}" />
         <Entry Placeholder="Password" IsPassword="True" x:Name="passwordEntry" Style="{StaticResource entryStyle}" />
         <Button Text="Login" Clicked="OnLoginButtonClicked" Style="{StaticResource buttonStyle}" />
         <Label x:Name="messageLabel" Text="" />
+        -->
     </VerticalStackLayout>
 
 </ContentPage>

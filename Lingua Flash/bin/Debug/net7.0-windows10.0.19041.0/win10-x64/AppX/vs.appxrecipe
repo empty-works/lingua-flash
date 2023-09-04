@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-23T11:30:45.491</Modified>
+      <Modified>2023-09-04T14:31:03.760</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-23T11:30:44.473</Modified>
+      <Modified>2023-09-04T14:18:40.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.runtimeconfig.json">
       <PackagePath>Lingua Flash.runtimeconfig.json</PackagePath>
@@ -44,15 +44,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.dll">
       <PackagePath>Lingua Flash.dll</PackagePath>
-      <Modified>2023-08-23T11:30:39.048</Modified>
+      <Modified>2023-09-04T14:31:02.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Lingua Flash.exe</PackagePath>
-      <Modified>2023-08-23T11:30:39.158</Modified>
+      <Modified>2023-09-04T14:31:02.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.deps.json">
       <PackagePath>Lingua Flash.deps.json</PackagePath>
-      <Modified>2023-08-23T11:30:42.925</Modified>
+      <Modified>2023-09-04T14:18:40.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\e23qv\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.10\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
