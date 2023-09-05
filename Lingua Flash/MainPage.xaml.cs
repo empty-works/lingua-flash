@@ -7,6 +7,7 @@
             InitializeComponent();
         }
 
+        /*
         private void OnLoginButtonClicked(object sender, EventArgs e)
         {
             string username = userNameEntry.Text;
@@ -26,5 +27,6 @@
         {
             return true;
         }
+        */
     }
 }
