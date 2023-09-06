@@ -16,73 +16,64 @@
         </Style>
     </ContentPage.Resources>
 
-    <VerticalStackLayout Spacing="25" Padding="30" VerticalOptions="Center">
-        <Grid RowDefinitions="1*, 1*, 1*" 
-              ColumnDefinitions="*,*,*,*,*,*">
-            <BoxView Style="{StaticResource topBoxViews}" 
-                     Grid.Column="2" 
-                     Color="Aquamarine" />
-            <Label Grid.Column="2"
-                   Grid.ColumnSpan="2"
-                   Grid.RowSpan="2"
-                   Text="START SESSION"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"/>
-            <BoxView Style="{StaticResource topBoxViews}" 
-                     Grid.Column="4" 
-                     Color="BlanchedAlmond"/>
-            <Label Grid.Column="4" 
-                   Grid.ColumnSpan="2"
-                   Grid.RowSpan="2"
-                   Text="SESSION SETTINGS"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"/>
+    <Grid RowDefinitions="1*, 1*, 1*" 
+          ColumnDefinitions="*,*,*,*,*,*">
+        <BoxView Style="{StaticResource topBoxViews}" 
+                 Grid.Column="2" 
+                 Color="Aquamarine" />
+        <Label Grid.Column="2"
+               Grid.ColumnSpan="2"
+               Grid.RowSpan="2"
+               Text="START SESSION"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+        <BoxView Style="{StaticResource topBoxViews}" 
+                 Grid.Column="4" 
+                 Color="BlanchedAlmond"/>
+        <Label Grid.Column="4" 
+               Grid.ColumnSpan="2"
+               Grid.RowSpan="2"
+               Text="SESSION SETTINGS"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
 
-            <BoxView Grid.Row="2"
-                     Color="Beige"/>
-            <Label Grid.Row="2"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   Text="Box1"/>
-            <BoxView Grid.Column="2" 
-                     Grid.Row="2"
-                     Color="BlueViolet"/>
-            <Label Grid.Column="1" 
-                   Grid.Row="2"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   Text="Box2"/>
-            <BoxView Grid.Column="2" 
-                     Grid.Row="2"
-                     Color="Chartreuse"/>
-            <Label Grid.Column="2" 
-                   Grid.Row="2"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   Text="Box3"/>
-            <BoxView Grid.Column="3" 
-                     Grid.Row="2"
-                     Color="Cyan"/>
-            <Label Grid.Column="3" 
-                   Grid.Row="2"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   Text="Box4"/>
-            <BoxView Grid.Column="4" 
-                     Grid.Row="2"
-                     Color="DarkKhaki"/>
-            <Label Grid.Column="4" 
-                   Grid.Row="2"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center"
-                   Text="Box5"/>
-        </Grid> 
-       <!-- 
-        <Entry Placeholder="Username" x:Name="userNameEntry" Style="{StaticResource entryStyle}" />
-        <Entry Placeholder="Password" IsPassword="True" x:Name="passwordEntry" Style="{StaticResource entryStyle}" />
-        <Button Text="Login" Clicked="OnLoginButtonClicked" Style="{StaticResource buttonStyle}" />
-        <Label x:Name="messageLabel" Text="" />
-        -->
-    </VerticalStackLayout>
-
+        <BoxView Grid.Row="2"
+                 Color="Beige"/>
+        <Label Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Text="Box1"/>
+        <BoxView Grid.Column="2" 
+                 Grid.Row="2"
+                 Color="BlueViolet"/>
+        <Label Grid.Column="1" 
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Text="Box2"/>
+        <BoxView Grid.Column="2" 
+                 Grid.Row="2"
+                 Color="Chartreuse"/>
+        <Label Grid.Column="2" 
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Text="Box3"/>
+        <BoxView Grid.Column="3" 
+                 Grid.Row="2"
+                 Color="Cyan"/>
+        <Label Grid.Column="3" 
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Text="Box4"/>
+        <BoxView Grid.Column="4" 
+                 Grid.Row="2"
+                 Color="DarkKhaki"/>
+        <Label Grid.Column="4" 
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Text="Box5"/>
+    </Grid> 
 </ContentPage>
