@@ -17,7 +17,8 @@
     </ContentPage.Resources>
 
     <Grid RowDefinitions="1*, 1*, 1*" 
-          ColumnDefinitions="*,*,*,*,*,*">
+          ColumnDefinitions="*,*,*,*,*,*"
+          RowSpacing="5" ColumnSpacing="5" Padding="5">
         <BoxView Style="{StaticResource topBoxViews}" 
                  Grid.Column="2" 
                  Color="Aquamarine" />
