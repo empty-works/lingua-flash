@@ -54,4 +54,22 @@
 		<PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.6" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Update="Pages\Sessions\SessionPage.xaml.cs">
+	    <DependentUpon>SessionPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\Sessions\SessionSettingsPage.xaml.cs">
+	    <DependentUpon>SessionSettingsPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Pages\Sessions\SessionPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Sessions\SessionSettingsPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>

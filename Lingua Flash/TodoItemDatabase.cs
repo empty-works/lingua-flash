@@ -16,9 +16,10 @@ namespace Lingua_Flash
                 return;
 
             Database = new SQLiteAsyncConnection(Constants.DatabasePath, Constants.Flags);
-            var result = await Database.CreateTableAsync<ToDoItem>();
+            //var result = await Database.CreateTableAsync<ToDoItem>();
         }
 
+        /*
         public async Task<List<ToDoItem>> GetItemsAsync()
         {
             await init();
@@ -51,5 +52,6 @@ namespace Lingua_Flash
             await init();
             return await Database.DeleteAsync(item);
         }
+        */
     }
 }

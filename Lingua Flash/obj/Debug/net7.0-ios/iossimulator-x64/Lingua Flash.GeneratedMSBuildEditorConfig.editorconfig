@@ -28,6 +28,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = Lingua_Flash.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/e23qv/Documents/lingua-flash/Lingua Flash/Pages/Sessions/SessionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lingua_Flash.Pages.Sessions.SessionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Sessions\SessionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Sessions\SessionPage.xaml
+
+[C:/Users/e23qv/Documents/lingua-flash/Lingua Flash/Pages/Sessions/SessionSettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lingua_Flash.Pages.Sessions.SessionSettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Sessions\SessionSettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Sessions\SessionSettingsPage.xaml
+
 [C:/Users/e23qv/Documents/lingua-flash/Lingua Flash/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lingua_Flash.Resources.Styles.Colors.xaml
