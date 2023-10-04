@@ -2,6 +2,8 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Lingua_Flash.MainPage"
+             xmlns:viewmodels="clr-namespace:Lingua_Flash.Viewmodels"
+             x:DataType="viewmodels:MainViewModel"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              mc:Ignorable="d">
@@ -19,18 +21,19 @@
     <Grid RowDefinitions="1*, 1*, 1*" 
           ColumnDefinitions="*,*,*,*,*,*"
           RowSpacing="5" ColumnSpacing="5" Padding="5">
-        <BoxView Style="{StaticResource topBoxViews}" 
-                 Grid.Column="2" 
-                 Color="Aquamarine" />
+        <BoxView Style="{StaticResource topBoxViews}" Grid.Column="2" Color="Aquamarine" >
+            <BoxView.GestureRecognizers>
+                <TapGestureRecognizer Tapped="LoadSession" />
+            </BoxView.GestureRecognizers>
+        </BoxView>
         <Label Grid.Column="2"
                Grid.ColumnSpan="2"
                Grid.RowSpan="2"
                Text="START SESSION"
                HorizontalOptions="Center"
                VerticalOptions="Center"/>
-        <BoxView Style="{StaticResource topBoxViews}" 
-                 Grid.Column="4" 
-                 Color="BlanchedAlmond"/>
+        <BoxView Style="{StaticResource topBoxViews}" Grid.Column="4" Color="BlanchedAlmond">
+        </BoxView>
         <Label Grid.Column="4" 
                Grid.ColumnSpan="2"
                Grid.RowSpan="2"

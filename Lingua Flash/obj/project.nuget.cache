@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mkrD6idX8fGaEgW4ZZaP4wxgPvvLapyWN/zTqN68iQd4L8qMbugo9cWaOPFSJf8HfyQyDCmMwl/puFo4uTA7gQ==",
+  "dgSpecHash": "Goc1rngCRWOdVMFdTDN6WZTNZ+k4TXqzG80VECLq4l3HgWeXz5ymphPJgGGTr6DnCo1znK17QkB+mhy63DaFkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\e23qv\\Documents\\lingua-flash\\Lingua Flash\\Lingua Flash.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\e23qv\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\e23qv\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\e23qv\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\e23qv\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

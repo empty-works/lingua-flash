@@ -1,15 +1,3 @@
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.csproj.AssemblyReference.cache
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.exe
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.deps.json
@@ -18,6 +6,7 @@ C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.pdb
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -44,8 +33,13 @@ C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
@@ -235,6 +229,18 @@ C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.csproj.AssemblyReference.cache
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Lingua Flash.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
@@ -322,8 +328,3 @@ C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\e23qv\Documents\lingua-flash\Lingua Flash\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll

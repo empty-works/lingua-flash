@@ -1,4 +1,6 @@
-﻿namespace Lingua_Flash
+﻿using Lingua_Flash.Pages.Sessions;
+
+namespace Lingua_Flash
 {
     public partial class MainPage : ContentPage
     {
@@ -7,6 +9,10 @@
             InitializeComponent();
         }
 
+        private async void LoadSession(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Session());
+        }
         /*
         private void OnLoginButtonClicked(object sender, EventArgs e)
         {

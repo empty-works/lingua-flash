@@ -1,4 +1,6 @@
-﻿namespace Lingua_Flash
+﻿using Lingua_Flash.Pages.Sessions;
+
+namespace Lingua_Flash
 {
     public partial class AppShell : Shell
     {
@@ -6,6 +8,7 @@
         {
             InitializeComponent();
 
+            Routing.RegisterRoute(nameof(Session), typeof(Session));
         }
     }
 }
